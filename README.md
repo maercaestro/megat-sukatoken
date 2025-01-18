@@ -17,7 +17,7 @@
 | **Tiktoken**     | 248            | +32.62%                      |
 
 ### Visualization
-![Saiz Perbendaharaan Kata](./data/saiz_perbendaharaan_kata_chart.png)
+![Saiz Perbendaharaan Kata](./data/output.png)
 
 ## Why MegatSukaToken?
 1. **Better Morphological Alignment**: Tokens align with Malay syllables, improving linguistic accuracy.
