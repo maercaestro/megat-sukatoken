@@ -1,0 +1,25 @@
+# Windsurf files
+.windsurffiles/
+.windsurffiles
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# Output files
+output/
